@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(4deg,darkolivegreen, peachpuff, darkkhaki) no-repeat;
+}
+
+p {
+    font-family: fantasy;
+}
+
+.sound {
+    font-family: "Franklin Gothic Book";
+}
+
+.keys {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.key {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: auto;
+    border: blueviolet 1px solid;
+    box-shadow: cadetblue 0 0 10px;
+}

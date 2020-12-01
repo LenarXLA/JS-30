@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f29c2f4d-7637-4375-aa6d-4b163ef0e1b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3W7ObummYwwbXST7x7nC5EYqf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Test" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-30/drum-kit/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="engine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/drum-kit/engine.js" working-dir="$PROJECT_DIR$/drum-kit">
+      <method v="2" />
+    </configuration>
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/drum-kit/js.js" working-dir="$PROJECT_DIR$/drum-kit">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.js.js" />
+        <item itemvalue="Node.js.engine.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29c2f4d-7637-4375-aa6d-4b163ef0e1b1" name="Default Changelist" comment="" />
+      <created>1606826086964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606826086964</updated>
+      <workItem from="1606826088455" duration="271000" />
+      <workItem from="1606828756984" duration="2051000" />
+      <workItem from="1606831039331" duration="2041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606826263175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="406" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606826263175" />
+    <state x="773" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606830297614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606830297614" />
+    <state width="1518" height="126" key="GridCell.Tab.0.bottom" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state width="1518" height="126" key="GridCell.Tab.0.center" timestamp="1606833097454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097454" />
+    <state width="1518" height="126" key="GridCell.Tab.0.left" timestamp="1606833097454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097454" />
+    <state width="1518" height="126" key="GridCell.Tab.0.right" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state width="1518" height="126" key="GridCell.Tab.1.bottom" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state width="1518" height="126" key="GridCell.Tab.1.center" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state width="1518" height="126" key="GridCell.Tab.1.left" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state width="1518" height="126" key="GridCell.Tab.1.right" timestamp="1606833097455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="126" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606833097455" />
+    <state x="591" y="260" key="run.anything.popup" timestamp="1606826343150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="260" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606826343150" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JS_30$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1606830820173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
