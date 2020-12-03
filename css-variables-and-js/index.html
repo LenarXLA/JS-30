@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CSS variables and JS</title>
+</head>
+<body>
+    <main class="main">
+        <h1>Photo redactor</h1>
+        <div class="range-change">
+            <label for="grayscale">Grayscale</label>
+            <input type="range" name="grayscale" value="0" data-sizing="%">
+
+            <label for="sepia">Sepia</label>
+            <input type="range" name="sepia" value="0" data-sizing="%">
+
+            <label for="invert">Invert</label>
+            <input type="range" name="invert" value="0" data-sizing="%">
+
+            <label for="picColor">Background Color</label>
+            <input type="color" name="picColor" value="#daee93">
+        </div>
+        <div class="photo">
+            <img src="../css-variables-and-js/img.jpg" alt="Some photo">
+        </div>
+    </main>
+    <script src="../css-variables-and-js/engine.js"></script>
+</body>
+</html>

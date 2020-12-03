@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    margin: 5rem;
+}
+
+:root {
+    --picColor: #daee93;
+    --grayscale: 0%;
+    --sepia: 0%;
+    --invert: 0%;
+}
+
+body {
+    background: var(--picColor);
+}
+
+img {
+    filter: grayscale(var(--grayscale)) sepia(var(--sepia)) invert(var(--invert));
+}
+
+input {
+    margin-right: 1rem;
+}
+
