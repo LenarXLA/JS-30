@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@300;400;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Texturina', serif;
+    color: #90d8fc;
+    background: url("./assets/wall1.jpg") no-repeat;
+    background-size: cover;
+}
+
+.games__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.games {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+ul {
+    border: #116667 2px solid;
+    box-shadow: cornflowerblue 0 0 5px;
+    padding: 1rem;
+}
+
+#title {
+    margin-bottom: 2rem;
+    color: #a7fcfd;
+}
+
+.game_elem_title {
+    line-height: 2.5;
+    list-style-type: none;
+}
+
+.btn__section {
+    margin-top: 1rem;
+    color: cornflowerblue;
+}
+
+.btn {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #faeb98;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+
+.btn:hover {
+    background: #1d49aa;
+    cursor: pointer;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+#toggle__elem {
+    position: sticky;
+    padding-bottom: 1rem;
+    padding-right: 80%;
+}
