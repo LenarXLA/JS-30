@@ -27,15 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede97c74-33ba-47ed-ab16-c7521b725e04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JS-30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array-cardio/assets/wall1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array-cardio/engine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array-cardio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array-cardio/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-cardio/engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/array-cardio/engine.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +66,17 @@
       <recent name="C:\myWorkFiles\Files\Work project\JavaScript\MyProjectsFolder\30_Days\JS-30\array-cardio\assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-30/array-cardio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="engine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array-cardio/engine.js" working-dir="$PROJECT_DIR$/array-cardio">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.engine.js" />
       </list>
     </recent_temporary>
   </component>
@@ -120,11 +117,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607409092668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607409092668" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607409092668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607409092668" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607409092667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607409092667" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607409092668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607409092668" />
     <state x="373" y="267" key="SettingsEditor" timestamp="1607078527337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -31,40 +31,18 @@ const removeData = () => {
     ulGame.innerHTML = '';
 }
 
-const sortedByTitle = () => {
-    if (toggle === false) {
-        games.sort((a, b) => a.title > b.title ? 1 : -1);
-        togSymbol.innerHTML = "▼";
-        toggle = true;
-    } else {
-        games.sort((a, b) => a.title < b.title ? 1 : -1);
-        togSymbol.innerHTML = "▲";
-        toggle = false;
-    }
-}
+const sorted = type => toggle ? execute(type, "▲") : execute(type, "▼");
 
-const sortedByYear = () => {
-    if (toggle === false) {
-        games.sort((a, b) => a.years > b.years ? 1 : -1);
-        togSymbol.innerHTML = "▼";
-        toggle = true;
-    } else {
-        games.sort((a, b) => a.years < b.years ? 1 : -1);
-        togSymbol.innerHTML = "▲";
-        toggle = false;
-    }
-}
-
-const sortedByRating = () => {
-    if (toggle === false) {
-        games.sort((a, b) => a.rating > b.rating ? 1 : -1);
-        togSymbol.innerHTML = "▼";
-        toggle = true;
-    } else {
-        games.sort((a, b) => a.rating < b.rating ? 1 : -1);
-        togSymbol.innerHTML = "▲";
-        toggle = false;
-    }
+const execute = (type, symbol) => {
+    games.sort((a, b) => (
+        symbol === "▼"
+            ? a[type] > b[type]
+            : a[type] < b[type]
+    )
+        ? 1
+        : -1);
+    togSymbol.innerHTML = symbol;
+    toggle = !toggle;
 }
 
 const pushBtn = () => {
@@ -72,21 +50,17 @@ const pushBtn = () => {
         elem.addEventListener("click", (e) => {
             switch (e.target.id) {
                 case "alphabetGame":
-                    sortedByTitle();
-                    removeData();
-                    addListOfGame();
+                    sorted("title");
                     break;
                 case "yearGame":
-                    sortedByYear();
-                    removeData();
-                    addListOfGame();
+                    sorted("years");
                     break;
                 case "ratingGame":
-                    sortedByRating();
-                    removeData();
-                    addListOfGame();
+                    sorted("rating");
                     break;
             }
+            removeData();
+            addListOfGame();
         });
     }
 }
