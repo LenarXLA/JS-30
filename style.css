@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkorange;
+    font-size: 1.2rem;
+}
+
+.main__section {
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item__check {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.2rem;
+    margin: 0.1rem;
+    border: blue 1px solid;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(47, 57, 231, 0.2);
+    background-color: rgba(47, 231, 225, 0.2);
+    width: 10rem;
+}
+
+.item__check > p    {
+    padding-left: 0.5rem;
+}
+
+input:checked + p {
+    color: crimson;
+    text-decoration: line-through;
+}
